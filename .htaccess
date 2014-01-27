@@ -15,7 +15,7 @@ IndexIgnore header.html footer.html scripts LICENSE README.md
 AddHandler server-parsed shtml
 Options +Indexes
 Options +IncludesNOEXEC
-
+#Options +ExecCGI
 
 # Listing Settings
 
@@ -33,6 +33,18 @@ AddDescription "You're not supposed to see this file." header.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ([^/]*).pdf$  /scripts/pdf.html#%{DOCUMENT_ROOT}/$1.pdf [L,NC,QSA]
 RewriteRule ([^/]*).mp4$  /scripts/video.html#$1.mp4 [L,NC,QSA]
+
+
+
+#<IfModule mod_rewrite.c>
+#Rewriting files to opening in specific scripts
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !(\.html)$
+#RewriteRule (.*).pdf$  /scripts/pdf/index.html?/$1 [R,L,NC,QSA]
+#RewriteRule ([^/]*).mp4$  /scripts/video.html#$1.mp4 [L,NC,QSA]
+#</IfModule>
+
+
 
 
 # Icons
