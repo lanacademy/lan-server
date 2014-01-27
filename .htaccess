@@ -7,7 +7,7 @@ ErrorDocument 404 "File not found"
 
 HeaderName /scripts/style/header.html
 ReadmeName /scripts/style/footer.html
-IndexIgnore header.html footer.html scripts
+IndexIgnore header.html footer.html scripts LICENSE README.md
 
 
 # Functionality
