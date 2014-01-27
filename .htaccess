@@ -5,9 +5,9 @@ ErrorDocument 404 "File not found"
 
 # Templates
 
-HeaderName /etc/header.html
-ReadmeName /etc/footer.html
-IndexIgnore header.html footer.html etc
+HeaderName /scripts/style/header.html
+ReadmeName /scripts/style/footer.html
+IndexIgnore header.html footer.html scripts
 
 
 # Functionality
