@@ -20,7 +20,7 @@ Options +IncludesNOEXEC
 # Listing Settings
 
 IndexOptions +FancyIndexing +ScanHTMLTitles +SuppressHTMLPreamble +TrackModified +XHTML
-IndexOptions +NameWidth=50 +SuppressLastModified +SuppressDescription +IconsAreLinks +HTMLTable +SuppressColum$
+IndexOptions +NameWidth=50 +SuppressLastModified +SuppressDescription +IconsAreLinks +HTMLTable +SuppressColumnSorting +SuppressSize
 IndexOrderDefault Ascending Name
 
 # Custom Descriptions
