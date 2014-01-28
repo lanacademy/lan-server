@@ -20,7 +20,7 @@ Options +IncludesNOEXEC
 # Listing Settings
 
 IndexOptions +FancyIndexing +ScanHTMLTitles +SuppressHTMLPreamble +TrackModified +XHTML
-IndexOptions +NameWidth=50 +SuppressLastModified +SuppressDescription +IconsAreLinks +HTMLTable +SuppressColumnSorting +SuppressSize
+IndexOptions +NameWidth=50 +SuppressLastModified +SuppressDescription +IconsAreLinks +HTMLTable +SuppressColum$
 IndexOrderDefault Ascending Name
 
 # Custom Descriptions
@@ -29,21 +29,14 @@ AddDescription "Please read me first :)" README
 AddDescription "You're not supposed to see this file." header.html
 
 
+<IfModule mod_rewrite.c>
 #Rewriting files to opening in specific scripts
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ([^/]*).pdf$  /scripts/pdf.html#%{DOCUMENT_ROOT}/$1.pdf [L,NC,QSA]
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !(\.html)$
+RewriteRule (.*).pdf$  /scripts/pdf/viewer.html?file=/$1.pdf [R,L,NC,QSA]
+RewriteRule (.*).epub$  /scripts/epub/?file=/$1 [R,L,NC,QSA]
 RewriteRule ([^/]*).mp4$  /scripts/video.html#$1.mp4 [L,NC,QSA]
-
-
-
-#<IfModule mod_rewrite.c>
-#Rewriting files to opening in specific scripts
-#RewriteEngine On
-#RewriteCond %{REQUEST_FILENAME} !(\.html)$
-#RewriteRule (.*).pdf$  /scripts/pdf/index.html?/$1 [R,L,NC,QSA]
-#RewriteRule ([^/]*).mp4$  /scripts/video.html#$1.mp4 [L,NC,QSA]
-#</IfModule>
-
+</IfModule>
 
 
 
