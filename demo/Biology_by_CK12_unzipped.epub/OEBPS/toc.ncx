@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" 
+                 "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:12345"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>CK-12 Biology</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navpoint-1" playOrder="1">
+      <navLabel>
+        <text>Book cover</text>
+      </navLabel>
+      <content src="title.html"/>
+    </navPoint>
+    <navPoint id="navpoint-2" playOrder="2">
+      <navLabel>
+        <text>CK-12 License</text>
+      </navLabel>
+      <content src="ck12_epub_licence.html"/>
+      </navPoint> 
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>CK-12 Author Attribution</text>
+      </navLabel>
+      <content src="ck12_author_attribution.html"/>
+    </navPoint>
+
+    <navPoint id="navpoint-4" playOrder="4">
+	<navLabel><text>What is Biology?</text></navLabel>
+	<content src="1.html"/>
+<navPoint id="navpoint-5" playOrder="5">
+	<navLabel><text>Science and the Natural World</text></navLabel>
+	<content src="1.html#x-ck12-U2NpZW5jZSBhbmQgdGhlIE5hdHVyYWwgV29ybGQ."/>
+
+</navPoint><navPoint id="navpoint-6" playOrder="6">
+	<navLabel><text>Biology: The Study of Life</text></navLabel>
+	<content src="1.html#x-ck12-QmlvbG9neTogVGhlIFN0dWR5IG9mIExpZmU."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-7" playOrder="7">
+	<navLabel><text>The Chemistry of Life</text></navLabel>
+	<content src="2.html"/>
+<navPoint id="navpoint-8" playOrder="8">
+	<navLabel><text>Matter and Organic Compounds</text></navLabel>
+	<content src="2.html#x-ck12-TWF0dGVyIGFuZCBPcmdhbmljIENvbXBvdW5kcw.."/>
+
+</navPoint><navPoint id="navpoint-9" playOrder="9">
+	<navLabel><text>Biochemical Reactions</text></navLabel>
+	<content src="2.html#x-ck12-QmlvY2hlbWljYWwgUmVhY3Rpb25z"/>
+
+</navPoint><navPoint id="navpoint-10" playOrder="10">
+	<navLabel><text>Water, Acids, and Bases</text></navLabel>
+	<content src="2.html#x-ck12-V2F0ZXIsIEFjaWRzLCBhbmQgQmFzZXM."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-11" playOrder="11">
+	<navLabel><text>Cellular Structure and Function</text></navLabel>
+	<content src="3.html"/>
+<navPoint id="navpoint-12" playOrder="12">
+	<navLabel><text>Introduction to Cells</text></navLabel>
+	<content src="3.html#x-ck12-SW50cm9kdWN0aW9uIHRvIENlbGxz"/>
+
+</navPoint><navPoint id="navpoint-13" playOrder="13">
+	<navLabel><text>Cell Structures</text></navLabel>
+	<content src="3.html#x-ck12-Q2VsbCBTdHJ1Y3R1cmVz"/>
+
+</navPoint><navPoint id="navpoint-14" playOrder="14">
+	<navLabel><text>Cell Transport and Homeostasis</text></navLabel>
+	<content src="3.html#x-ck12-Q2VsbCBUcmFuc3BvcnQgYW5kIEhvbWVvc3Rhc2lz"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-15" playOrder="15">
+	<navLabel><text>Photosynthesis and Cellular Respiration</text></navLabel>
+	<content src="4.html"/>
+<navPoint id="navpoint-16" playOrder="16">
+	<navLabel><text>Energy for Life</text></navLabel>
+	<content src="4.html#x-ck12-RW5lcmd5IGZvciBMaWZl"/>
+
+</navPoint><navPoint id="navpoint-17" playOrder="17">
+	<navLabel><text>Photosynthesis: Sugar as Food</text></navLabel>
+	<content src="4.html#x-ck12-UGhvdG9zeW50aGVzaXM6IFN1Z2FyIGFzIEZvb2Q."/>
+
+</navPoint><navPoint id="navpoint-18" playOrder="18">
+	<navLabel><text>Powering the Cell: Cellular Respiration</text></navLabel>
+	<content src="4.html#x-ck12-UG93ZXJpbmcgdGhlIENlbGw6IENlbGx1bGFyIFJlc3BpcmF0aW9u"/>
+
+</navPoint><navPoint id="navpoint-19" playOrder="19">
+	<navLabel><text>Anaerobic Respiration</text></navLabel>
+	<content src="4.html#x-ck12-QW5hZXJvYmljIFJlc3BpcmF0aW9u"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-20" playOrder="20">
+	<navLabel><text>The Cell Cycle, Mitosis, and Meiosis</text></navLabel>
+	<content src="5.html"/>
+<navPoint id="navpoint-21" playOrder="21">
+	<navLabel><text>Cell Division and the Cell Cycle</text></navLabel>
+	<content src="5.html#x-ck12-Q2VsbCBEaXZpc2lvbiBhbmQgdGhlIENlbGwgQ3ljbGU."/>
+
+</navPoint><navPoint id="navpoint-22" playOrder="22">
+	<navLabel><text>Chromosomes and Mitosis</text></navLabel>
+	<content src="5.html#x-ck12-Q2hyb21vc29tZXMgYW5kIE1pdG9zaXM."/>
+
+</navPoint><navPoint id="navpoint-23" playOrder="23">
+	<navLabel><text>Reproduction and Meiosis</text></navLabel>
+	<content src="5.html#x-ck12-UmVwcm9kdWN0aW9uIGFuZCBNZWlvc2lz"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-24" playOrder="24">
+	<navLabel><text>Gregor Mendel and Genetics</text></navLabel>
+	<content src="6.html"/>
+<navPoint id="navpoint-25" playOrder="25">
+	<navLabel><text>Mendel's Investigations</text></navLabel>
+	<content src="6.html#x-ck12-TWVuZGVsJ3MgSW52ZXN0aWdhdGlvbnM."/>
+
+</navPoint><navPoint id="navpoint-26" playOrder="26">
+	<navLabel><text>Mendelian Inheritance</text></navLabel>
+	<content src="6.html#x-ck12-TWVuZGVsaWFuIEluaGVyaXRhbmNl"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-27" playOrder="27">
+	<navLabel><text>Molecular Genetics: From DNA to Proteins</text></navLabel>
+	<content src="7.html"/>
+<navPoint id="navpoint-28" playOrder="28">
+	<navLabel><text>DNA and RNA</text></navLabel>
+	<content src="7.html#x-ck12-RE5BIGFuZCBSTkE."/>
+
+</navPoint><navPoint id="navpoint-29" playOrder="29">
+	<navLabel><text>Protein Synthesis</text></navLabel>
+	<content src="7.html#x-ck12-UHJvdGVpbiBTeW50aGVzaXM."/>
+
+</navPoint><navPoint id="navpoint-30" playOrder="30">
+	<navLabel><text>Mutation</text></navLabel>
+	<content src="7.html#x-ck12-TXV0YXRpb24."/>
+
+</navPoint><navPoint id="navpoint-31" playOrder="31">
+	<navLabel><text>Regulation of Gene Expression</text></navLabel>
+	<content src="7.html#x-ck12-UmVndWxhdGlvbiBvZiBHZW5lIEV4cHJlc3Npb24."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-32" playOrder="32">
+	<navLabel><text>Human Genetics and Biotechnology</text></navLabel>
+	<content src="8.html"/>
+<navPoint id="navpoint-33" playOrder="33">
+	<navLabel><text>Human Chromosomes and Genes</text></navLabel>
+	<content src="8.html#x-ck12-SHVtYW4gQ2hyb21vc29tZXMgYW5kIEdlbmVz"/>
+
+</navPoint><navPoint id="navpoint-34" playOrder="34">
+	<navLabel><text>Human Inheritance</text></navLabel>
+	<content src="8.html#x-ck12-SHVtYW4gSW5oZXJpdGFuY2U."/>
+
+</navPoint><navPoint id="navpoint-35" playOrder="35">
+	<navLabel><text>Biotechnology</text></navLabel>
+	<content src="8.html#x-ck12-QmlvdGVjaG5vbG9neQ.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-36" playOrder="36">
+	<navLabel><text>Life: From the First Organism Onward</text></navLabel>
+	<content src="9.html"/>
+<navPoint id="navpoint-37" playOrder="37">
+	<navLabel><text>Earth Forms and Life Begins</text></navLabel>
+	<content src="9.html#x-ck12-RWFydGggRm9ybXMgYW5kIExpZmUgQmVnaW5z"/>
+
+</navPoint><navPoint id="navpoint-38" playOrder="38">
+	<navLabel><text>The Evolution of Multicellular Life</text></navLabel>
+	<content src="9.html#x-ck12-VGhlIEV2b2x1dGlvbiBvZiBNdWx0aWNlbGx1bGFyIExpZmU."/>
+
+</navPoint><navPoint id="navpoint-39" playOrder="39">
+	<navLabel><text>Classification</text></navLabel>
+	<content src="9.html#x-ck12-Q2xhc3NpZmljYXRpb24."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-40" playOrder="40">
+	<navLabel><text>The Theory of Evolution</text></navLabel>
+	<content src="10.html"/>
+<navPoint id="navpoint-41" playOrder="41">
+	<navLabel><text>Darwin and the Theory of Evolution</text></navLabel>
+	<content src="10.html#x-ck12-RGFyd2luIGFuZCB0aGUgVGhlb3J5IG9mIEV2b2x1dGlvbg.."/>
+
+</navPoint><navPoint id="navpoint-42" playOrder="42">
+	<navLabel><text>Evidence for Evolution</text></navLabel>
+	<content src="10.html#x-ck12-RXZpZGVuY2UgZm9yIEV2b2x1dGlvbg.."/>
+
+</navPoint><navPoint id="navpoint-43" playOrder="43">
+	<navLabel><text>Microevolution and the Genetics of Populations</text></navLabel>
+	<content src="10.html#x-ck12-TWljcm9ldm9sdXRpb24gYW5kIHRoZSBHZW5ldGljcyBvZiBQb3B1bGF0aW9ucw.."/>
+
+</navPoint><navPoint id="navpoint-44" playOrder="44">
+	<navLabel><text>Macroevolution and the Origin of Species</text></navLabel>
+	<content src="10.html#x-ck12-TWFjcm9ldm9sdXRpb24gYW5kIHRoZSBPcmlnaW4gb2YgU3BlY2llcw.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-45" playOrder="45">
+	<navLabel><text>The Principles of Ecology</text></navLabel>
+	<content src="11.html"/>
+<navPoint id="navpoint-46" playOrder="46">
+	<navLabel><text>The Science of Ecology</text></navLabel>
+	<content src="11.html#x-ck12-VGhlIFNjaWVuY2Ugb2YgRWNvbG9neQ.."/>
+
+</navPoint><navPoint id="navpoint-47" playOrder="47">
+	<navLabel><text>Recycling Matter</text></navLabel>
+	<content src="11.html#x-ck12-UmVjeWNsaW5nIE1hdHRlcg.."/>
+
+</navPoint><navPoint id="navpoint-48" playOrder="48">
+	<navLabel><text>Biomes</text></navLabel>
+	<content src="11.html#x-ck12-QmlvbWVz"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-49" playOrder="49">
+	<navLabel><text>Communities and Populations</text></navLabel>
+	<content src="12.html"/>
+<navPoint id="navpoint-50" playOrder="50">
+	<navLabel><text>Community Interactions</text></navLabel>
+	<content src="12.html#x-ck12-Q29tbXVuaXR5IEludGVyYWN0aW9ucw.."/>
+
+</navPoint><navPoint id="navpoint-51" playOrder="51">
+	<navLabel><text>Characteristics of Populations</text></navLabel>
+	<content src="12.html#x-ck12-Q2hhcmFjdGVyaXN0aWNzIG9mIFBvcHVsYXRpb25z"/>
+
+</navPoint><navPoint id="navpoint-52" playOrder="52">
+	<navLabel><text>Human Population Growth</text></navLabel>
+	<content src="12.html#x-ck12-SHVtYW4gUG9wdWxhdGlvbiBHcm93dGg."/>
+
+</navPoint><navPoint id="navpoint-53" playOrder="53">
+	<navLabel><text>The Biodiversity Crisis</text></navLabel>
+	<content src="12.html#x-ck12-VGhlIEJpb2RpdmVyc2l0eSBDcmlzaXM."/>
+
+</navPoint><navPoint id="navpoint-54" playOrder="54">
+	<navLabel><text>Natural Resources and Climate Change</text></navLabel>
+	<content src="12.html#x-ck12-TmF0dXJhbCBSZXNvdXJjZXMgYW5kIENsaW1hdGUgQ2hhbmdl"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-55" playOrder="55">
+	<navLabel><text>Microorganisms: Prokaryotes and Viruses</text></navLabel>
+	<content src="13.html"/>
+<navPoint id="navpoint-56" playOrder="56">
+	<navLabel><text>Prokaryotes</text></navLabel>
+	<content src="13.html#x-ck12-UHJva2FyeW90ZXM."/>
+
+</navPoint><navPoint id="navpoint-57" playOrder="57">
+	<navLabel><text>Viruses</text></navLabel>
+	<content src="13.html#x-ck12-VmlydXNlcw.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-58" playOrder="58">
+	<navLabel><text>Eukaryotes: Protists and Fungi</text></navLabel>
+	<content src="14.html"/>
+<navPoint id="navpoint-59" playOrder="59">
+	<navLabel><text>Introduction to Protists</text></navLabel>
+	<content src="14.html#x-ck12-SW50cm9kdWN0aW9uIHRvIFByb3Rpc3Rz"/>
+
+</navPoint><navPoint id="navpoint-60" playOrder="60">
+	<navLabel><text>Types of Protists</text></navLabel>
+	<content src="14.html#x-ck12-VHlwZXMgb2YgUHJvdGlzdHM."/>
+
+</navPoint><navPoint id="navpoint-61" playOrder="61">
+	<navLabel><text>Introduction to Fungi</text></navLabel>
+	<content src="14.html#x-ck12-SW50cm9kdWN0aW9uIHRvIEZ1bmdp"/>
+
+</navPoint><navPoint id="navpoint-62" playOrder="62">
+	<navLabel><text>Ecology of Fungi</text></navLabel>
+	<content src="14.html#x-ck12-RWNvbG9neSBvZiBGdW5naQ.."/>
+
+</navPoint><navPoint id="navpoint-63" playOrder="63">
+	<navLabel><text>Protists, Fungi, and Human Disease</text></navLabel>
+	<content src="14.html#x-ck12-UHJvdGlzdHMsIEZ1bmdpLCBhbmQgSHVtYW4gRGlzZWFzZQ.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-64" playOrder="64">
+	<navLabel><text>Plant Evolution and Classification</text></navLabel>
+	<content src="15.html"/>
+<navPoint id="navpoint-65" playOrder="65">
+	<navLabel><text>Introduction to the Plant Kingdom</text></navLabel>
+	<content src="15.html#x-ck12-SW50cm9kdWN0aW9uIHRvIHRoZSBQbGFudCBLaW5nZG9t"/>
+
+</navPoint><navPoint id="navpoint-66" playOrder="66">
+	<navLabel><text>Four Types of Modern Plants</text></navLabel>
+	<content src="15.html#x-ck12-Rm91ciBUeXBlcyBvZiBNb2Rlcm4gUGxhbnRz"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-67" playOrder="67">
+	<navLabel><text>Plant Biology</text></navLabel>
+	<content src="16.html"/>
+<navPoint id="navpoint-68" playOrder="68">
+	<navLabel><text>Plant Tissues and Growth</text></navLabel>
+	<content src="16.html#x-ck12-UGxhbnQgVGlzc3VlcyBhbmQgR3Jvd3Ro"/>
+
+</navPoint><navPoint id="navpoint-69" playOrder="69">
+	<navLabel><text>Plant Organs: Roots, Stems, and Leaves</text></navLabel>
+	<content src="16.html#x-ck12-UGxhbnQgT3JnYW5zOiBSb290cywgU3RlbXMsIGFuZCBMZWF2ZXM."/>
+
+</navPoint><navPoint id="navpoint-70" playOrder="70">
+	<navLabel><text>Variation in Plant Life Cycles</text></navLabel>
+	<content src="16.html#x-ck12-VmFyaWF0aW9uIGluIFBsYW50IExpZmUgQ3ljbGVz"/>
+
+</navPoint><navPoint id="navpoint-71" playOrder="71">
+	<navLabel><text>Plant Adaptations and Responses</text></navLabel>
+	<content src="16.html#x-ck12-UGxhbnQgQWRhcHRhdGlvbnMgYW5kIFJlc3BvbnNlcw.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-72" playOrder="72">
+	<navLabel><text>Introduction to Animals</text></navLabel>
+	<content src="17.html"/>
+<navPoint id="navpoint-73" playOrder="73">
+	<navLabel><text>Overview of Animals</text></navLabel>
+	<content src="17.html#x-ck12-T3ZlcnZpZXcgb2YgQW5pbWFscw.."/>
+
+</navPoint><navPoint id="navpoint-74" playOrder="74">
+	<navLabel><text>Overview of Invertebrates</text></navLabel>
+	<content src="17.html#x-ck12-T3ZlcnZpZXcgb2YgSW52ZXJ0ZWJyYXRlcw.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-75" playOrder="75">
+	<navLabel><text>From Sponges to Invertebrate Chordates</text></navLabel>
+	<content src="18.html"/>
+<navPoint id="navpoint-76" playOrder="76">
+	<navLabel><text>Sponges, Cnidarians, Flatworms, and Roundworms</text></navLabel>
+	<content src="18.html#x-ck12-U3BvbmdlcywgQ25pZGFyaWFucywgRmxhdHdvcm1zLCBhbmQgUm91bmR3b3Jtcw.."/>
+
+</navPoint><navPoint id="navpoint-77" playOrder="77">
+	<navLabel><text>Mollusks and Annelids</text></navLabel>
+	<content src="18.html#x-ck12-TW9sbHVza3MgYW5kIEFubmVsaWRz"/>
+
+</navPoint><navPoint id="navpoint-78" playOrder="78">
+	<navLabel><text>Arthropods and Insects</text></navLabel>
+	<content src="18.html#x-ck12-QXJ0aHJvcG9kcyBhbmQgSW5zZWN0cw.."/>
+
+</navPoint><navPoint id="navpoint-79" playOrder="79">
+	<navLabel><text>Echinoderms and Invertebrate Chordates</text></navLabel>
+	<content src="18.html#x-ck12-RWNoaW5vZGVybXMgYW5kIEludmVydGVicmF0ZSBDaG9yZGF0ZXM."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-80" playOrder="80">
+	<navLabel><text>From Fish to Birds</text></navLabel>
+	<content src="19.html"/>
+<navPoint id="navpoint-81" playOrder="81">
+	<navLabel><text>Overview of Vertebrates</text></navLabel>
+	<content src="19.html#x-ck12-T3ZlcnZpZXcgb2YgVmVydGVicmF0ZXM."/>
+
+</navPoint><navPoint id="navpoint-82" playOrder="82">
+	<navLabel><text>Fish</text></navLabel>
+	<content src="19.html#x-ck12-RmlzaA.."/>
+
+</navPoint><navPoint id="navpoint-83" playOrder="83">
+	<navLabel><text>Amphibians</text></navLabel>
+	<content src="19.html#x-ck12-QW1waGliaWFucw.."/>
+
+</navPoint><navPoint id="navpoint-84" playOrder="84">
+	<navLabel><text>Reptiles</text></navLabel>
+	<content src="19.html#x-ck12-UmVwdGlsZXM."/>
+
+</navPoint><navPoint id="navpoint-85" playOrder="85">
+	<navLabel><text>Birds</text></navLabel>
+	<content src="19.html#x-ck12-QmlyZHM."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-86" playOrder="86">
+	<navLabel><text>Mammals and Animal Behavior</text></navLabel>
+	<content src="20.html"/>
+<navPoint id="navpoint-87" playOrder="87">
+	<navLabel><text>Mammalian Traits</text></navLabel>
+	<content src="20.html#x-ck12-TWFtbWFsaWFuIFRyYWl0cw.."/>
+
+</navPoint><navPoint id="navpoint-88" playOrder="88">
+	<navLabel><text>Reproduction in Mammals</text></navLabel>
+	<content src="20.html#x-ck12-UmVwcm9kdWN0aW9uIGluIE1hbW1hbHM."/>
+
+</navPoint><navPoint id="navpoint-89" playOrder="89">
+	<navLabel><text>Evolution and Classification of Mammals</text></navLabel>
+	<content src="20.html#x-ck12-RXZvbHV0aW9uIGFuZCBDbGFzc2lmaWNhdGlvbiBvZiBNYW1tYWxz"/>
+
+</navPoint><navPoint id="navpoint-90" playOrder="90">
+	<navLabel><text>Overview of Animal Behavior</text></navLabel>
+	<content src="20.html#x-ck12-T3ZlcnZpZXcgb2YgQW5pbWFsIEJlaGF2aW9y"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-91" playOrder="91">
+	<navLabel><text>Introduction to the Human Body: Bones, Muscles, and Skin</text></navLabel>
+	<content src="21.html"/>
+<navPoint id="navpoint-92" playOrder="92">
+	<navLabel><text>Organization of the Human Body</text></navLabel>
+	<content src="21.html#x-ck12-T3JnYW5pemF0aW9uIG9mIHRoZSBIdW1hbiBCb2R5"/>
+
+</navPoint><navPoint id="navpoint-93" playOrder="93">
+	<navLabel><text>The Skeletal System</text></navLabel>
+	<content src="21.html#x-ck12-VGhlIFNrZWxldGFsIFN5c3RlbQ.."/>
+
+</navPoint><navPoint id="navpoint-94" playOrder="94">
+	<navLabel><text>The Muscular System</text></navLabel>
+	<content src="21.html#x-ck12-VGhlIE11c2N1bGFyIFN5c3RlbQ.."/>
+
+</navPoint><navPoint id="navpoint-95" playOrder="95">
+	<navLabel><text>The Integumentary System</text></navLabel>
+	<content src="21.html#x-ck12-VGhlIEludGVndW1lbnRhcnkgU3lzdGVt"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-96" playOrder="96">
+	<navLabel><text>The Nervous and Endocrine Systems</text></navLabel>
+	<content src="22.html"/>
+<navPoint id="navpoint-97" playOrder="97">
+	<navLabel><text>The Nervous System</text></navLabel>
+	<content src="22.html#x-ck12-VGhlIE5lcnZvdXMgU3lzdGVt"/>
+
+</navPoint><navPoint id="navpoint-98" playOrder="98">
+	<navLabel><text>The Endocrine System</text></navLabel>
+	<content src="22.html#x-ck12-VGhlIEVuZG9jcmluZSBTeXN0ZW0."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-99" playOrder="99">
+	<navLabel><text>The Circulatory, Respiratory, Digestive, and Excretory Systems</text></navLabel>
+	<content src="23.html"/>
+<navPoint id="navpoint-100" playOrder="100">
+	<navLabel><text>The Circulatory System</text></navLabel>
+	<content src="23.html#x-ck12-VGhlIENpcmN1bGF0b3J5IFN5c3RlbQ.."/>
+
+</navPoint><navPoint id="navpoint-101" playOrder="101">
+	<navLabel><text>The Respiratory System</text></navLabel>
+	<content src="23.html#x-ck12-VGhlIFJlc3BpcmF0b3J5IFN5c3RlbQ.."/>
+
+</navPoint><navPoint id="navpoint-102" playOrder="102">
+	<navLabel><text>The Digestive System</text></navLabel>
+	<content src="23.html#x-ck12-VGhlIERpZ2VzdGl2ZSBTeXN0ZW0."/>
+
+</navPoint><navPoint id="navpoint-103" playOrder="103">
+	<navLabel><text>The Excretory System</text></navLabel>
+	<content src="23.html#x-ck12-VGhlIEV4Y3JldG9yeSBTeXN0ZW0."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-104" playOrder="104">
+	<navLabel><text>The Immune System and Disease</text></navLabel>
+	<content src="24.html"/>
+<navPoint id="navpoint-105" playOrder="105">
+	<navLabel><text>Nonspecific Defenses</text></navLabel>
+	<content src="24.html#x-ck12-Tm9uc3BlY2lmaWMgRGVmZW5zZXM."/>
+
+</navPoint><navPoint id="navpoint-106" playOrder="106">
+	<navLabel><text>The Immune Response</text></navLabel>
+	<content src="24.html#x-ck12-VGhlIEltbXVuZSBSZXNwb25zZQ.."/>
+
+</navPoint><navPoint id="navpoint-107" playOrder="107">
+	<navLabel><text>Immune System Diseases</text></navLabel>
+	<content src="24.html#x-ck12-SW1tdW5lIFN5c3RlbSBEaXNlYXNlcw.."/>
+
+</navPoint><navPoint id="navpoint-108" playOrder="108">
+	<navLabel><text>Environmental Problems and Human Health</text></navLabel>
+	<content src="24.html#x-ck12-RW52aXJvbm1lbnRhbCBQcm9ibGVtcyBhbmQgSHVtYW4gSGVhbHRo"/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-109" playOrder="109">
+	<navLabel><text>Reproduction and Human Development</text></navLabel>
+	<content src="25.html"/>
+<navPoint id="navpoint-110" playOrder="110">
+	<navLabel><text>Male Reproductive System</text></navLabel>
+	<content src="25.html#x-ck12-TWFsZSBSZXByb2R1Y3RpdmUgU3lzdGVt"/>
+
+</navPoint><navPoint id="navpoint-111" playOrder="111">
+	<navLabel><text>Female Reproductive System</text></navLabel>
+	<content src="25.html#x-ck12-RmVtYWxlIFJlcHJvZHVjdGl2ZSBTeXN0ZW0."/>
+
+</navPoint><navPoint id="navpoint-112" playOrder="112">
+	<navLabel><text>From Fertilization to Old Age</text></navLabel>
+	<content src="25.html#x-ck12-RnJvbSBGZXJ0aWxpemF0aW9uIHRvIE9sZCBBZ2U."/>
+
+</navPoint><navPoint id="navpoint-113" playOrder="113">
+	<navLabel><text>Sexually Transmitted Infections</text></navLabel>
+	<content src="25.html#x-ck12-U2V4dWFsbHkgVHJhbnNtaXR0ZWQgSW5mZWN0aW9ucw.."/>
+
+</navPoint>
+</navPoint><navPoint id="navpoint-114" playOrder="114">
+	<navLabel><text>Biology Glossary</text></navLabel>
+	<content src="26.html"/>
+<navPoint id="navpoint-115" playOrder="115">
+	<navLabel><text>A</text></navLabel>
+	<content src="26.html#x-ck12-QQ.."/>
+
+</navPoint><navPoint id="navpoint-116" playOrder="116">
+	<navLabel><text>B</text></navLabel>
+	<content src="26.html#x-ck12-Qg.."/>
+
+</navPoint><navPoint id="navpoint-117" playOrder="117">
+	<navLabel><text>C</text></navLabel>
+	<content src="26.html#x-ck12-Qw.."/>
+
+</navPoint><navPoint id="navpoint-118" playOrder="118">
+	<navLabel><text>D</text></navLabel>
+	<content src="26.html#x-ck12-RA.."/>
+
+</navPoint><navPoint id="navpoint-119" playOrder="119">
+	<navLabel><text>E</text></navLabel>
+	<content src="26.html#x-ck12-RQ.."/>
+
+</navPoint><navPoint id="navpoint-120" playOrder="120">
+	<navLabel><text>F</text></navLabel>
+	<content src="26.html#x-ck12-Rg.."/>
+
+</navPoint><navPoint id="navpoint-121" playOrder="121">
+	<navLabel><text>G</text></navLabel>
+	<content src="26.html#x-ck12-Rw.."/>
+
+</navPoint><navPoint id="navpoint-122" playOrder="122">
+	<navLabel><text>H</text></navLabel>
+	<content src="26.html#x-ck12-SA.."/>
+
+</navPoint><navPoint id="navpoint-123" playOrder="123">
+	<navLabel><text>I</text></navLabel>
+	<content src="26.html#x-ck12-SQ.."/>
+
+</navPoint><navPoint id="navpoint-124" playOrder="124">
+	<navLabel><text>J</text></navLabel>
+	<content src="26.html#x-ck12-Sg.."/>
+
+</navPoint><navPoint id="navpoint-125" playOrder="125">
+	<navLabel><text>K</text></navLabel>
+	<content src="26.html#x-ck12-Sw.."/>
+
+</navPoint><navPoint id="navpoint-126" playOrder="126">
+	<navLabel><text>L</text></navLabel>
+	<content src="26.html#x-ck12-TA.."/>
+
+</navPoint><navPoint id="navpoint-127" playOrder="127">
+	<navLabel><text>M</text></navLabel>
+	<content src="26.html#x-ck12-TQ.."/>
+
+</navPoint><navPoint id="navpoint-128" playOrder="128">
+	<navLabel><text>N</text></navLabel>
+	<content src="26.html#x-ck12-Tg.."/>
+
+</navPoint><navPoint id="navpoint-129" playOrder="129">
+	<navLabel><text>O</text></navLabel>
+	<content src="26.html#x-ck12-Tw.."/>
+
+</navPoint><navPoint id="navpoint-130" playOrder="130">
+	<navLabel><text>P</text></navLabel>
+	<content src="26.html#x-ck12-UA.."/>
+
+</navPoint><navPoint id="navpoint-131" playOrder="131">
+	<navLabel><text>Q</text></navLabel>
+	<content src="26.html#x-ck12-UQ.."/>
+
+</navPoint><navPoint id="navpoint-132" playOrder="132">
+	<navLabel><text>R</text></navLabel>
+	<content src="26.html#x-ck12-Ug.."/>
+
+</navPoint><navPoint id="navpoint-133" playOrder="133">
+	<navLabel><text>S</text></navLabel>
+	<content src="26.html#x-ck12-Uw.."/>
+
+</navPoint><navPoint id="navpoint-134" playOrder="134">
+	<navLabel><text>T</text></navLabel>
+	<content src="26.html#x-ck12-VA.."/>
+
+</navPoint><navPoint id="navpoint-135" playOrder="135">
+	<navLabel><text>U</text></navLabel>
+	<content src="26.html#x-ck12-VQ.."/>
+
+</navPoint><navPoint id="navpoint-136" playOrder="136">
+	<navLabel><text>V</text></navLabel>
+	<content src="26.html#x-ck12-Vg.."/>
+
+</navPoint><navPoint id="navpoint-137" playOrder="137">
+	<navLabel><text>W</text></navLabel>
+	<content src="26.html#x-ck12-Vw.."/>
+
+</navPoint><navPoint id="navpoint-138" playOrder="138">
+	<navLabel><text>X</text></navLabel>
+	<content src="26.html#x-ck12-WA.."/>
+
+</navPoint><navPoint id="navpoint-139" playOrder="139">
+	<navLabel><text>Y</text></navLabel>
+	<content src="26.html#x-ck12-WQ.."/>
+
+</navPoint><navPoint id="navpoint-140" playOrder="140">
+	<navLabel><text>Z</text></navLabel>
+	<content src="26.html#x-ck12-Wg.."/>
+
+</navPoint>
+</navPoint>
+  </navMap>
+</ncx>
