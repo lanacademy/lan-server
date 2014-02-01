@@ -38,16 +38,18 @@ Apps:
 
 ##Roadmap
 
-By 26th of February
+By 26th of February:
  * Installer scripts for kiwix-serve, LAN-LMS, Schooltool, apache file server (no pdf.js)
  * Make academy.lan work with the router Team LAN brings to Guyana
  * Ugly php/cgi frontend 
-Before June 
+
+Before June: 
  * Add in etherpad lite, lan-library, iTALC, software download page
  * preseed and auto-fix usb
  * registration and analytics
  * Hardware wireless card option?
  * frontend?
+
 Eventually
 ...
 
