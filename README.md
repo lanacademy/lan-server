@@ -11,9 +11,8 @@ LAN-Server
 
 Installation scripts and packages for out-of-box Debian
 
-Scripts:
+Installation scripts for all the apps:
 
- * Installation scripts for all the apps
  * DNS and DHCP server to set up "offline" network with academy.lan
  * If supported, serves up network over hardware wireless card
  * Php/cgi script frontend to manage server
