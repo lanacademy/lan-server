@@ -1,5 +1,5 @@
 #!/bin/bash
-export WORKING_DIR=/home/noa/lanacademy/ # kill this line later
+export WORKING_DIR=/home/lan/lanacademy/ # kill this line later
 export PATH=$PATH:$WORKING_DIR
 echo "Content-type: text/html"
 echo ""
