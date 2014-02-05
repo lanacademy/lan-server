@@ -1,0 +1,300 @@
+/* Layout */
+
+.schooltool > .grid {
+    padding-top: 36px;
+}
+
+.schooltool > .grid:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+    }
+
+.grid .third-nav-container {
+    left: 234px;
+    position: absolute;
+    overflow: hidden;
+    width: 675px;
+}
+
+.grid .third-nav {
+    float: left;
+    border-radius: 0;
+    margin: 0;
+    width: 10000px;
+}
+
+.grid .third-nav > li:first-child a {
+    border-radius: 0;
+}
+
+.grid .third-nav li a {
+    width: 135px;
+    padding: 8px 0;
+    text-align: center;
+    overflow: hidden;
+}
+
+.grid a.navbar-arrow {
+    background: #F7F7F7;
+    display: block;
+    font-size: 12px;
+    line-height: 16px;
+    padding: 8px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    top: 36px;
+    width: 10px;
+    outline: none;
+    border-bottom-color: #D9D9D9;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.grid a.navbar-arrow:hover,
+.grid a.navbar-list-worksheets-active {
+    background: url("subnav_active_bg.png") repeat scroll left 1px transparent;
+}
+
+.grid a.navbar-arrow-inactive {
+    color: gray;
+}
+
+.grid a.navbar-arrow-inactive:hover {
+    background: #F7F7F7;
+    cursor: default;
+}
+
+.grid a.navbar-go-previous {
+    left: 208px;
+    border-radius: 4px 0 0 0;
+}
+
+.grid a.navbar-go-next {
+    right: 43px;
+}
+
+.grid > a.navbar-list-worksheets {
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #ccc;
+    border-radius: 0 4px 0 0;
+    right: 16px;
+    width: 11px;
+}
+
+.grid > .body {
+    overflow: visible;
+}
+
+.grid > .body > .container {
+    margin-top: 32px;
+}
+
+.grid > .body > .widecontainer {
+    padding: 0px;
+    width: 752px;
+}
+
+/* Grid form */
+
+.grid-form {
+    margin-top: 0px;
+    font-size: 10px;
+}
+
+/* Gradebook parts */
+
+.gradebook {
+    margin-bottom: 8px;
+}
+
+.gradebook-part table {
+    border-collapse: collapse;
+    margin-top: 0px;
+    table-layout: fixed;
+}
+
+.gradebook-part th, .gradebook-part td {
+    font-size: 1em;
+    font-weight: normal;
+    padding: 0px;
+    vertical-align: middle;
+    overflow: hidden;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.gradebook-part th {
+    border-bottom-width: 1px;
+    border-style: solid;
+}
+
+.gradebook-part thead tr {
+    height: 1.8em;
+}
+
+.gradebook-part tbody tr {
+    height: 2.2em;
+}
+
+.gradebook-part input[type="text"] {
+    border: 0px;
+    font-size: 1em;
+    height: 1.8em;
+    width: 100%;
+}
+
+.gradebook-part input[type="text"]:focus {
+    outline-style: none;
+}
+
+.students {
+    position: absolute;
+    top: 0;
+    width: 17.8em;
+    z-index: 1;
+}
+
+.students th {
+    text-align: right;
+}
+
+.students th.name {
+    text-align: left;
+    width: 11.0em;
+}
+
+.students th, .students td {
+    border-right-width: 1px;
+    border-right-style: solid;
+    padding-left: 0.4em;
+    padding-right: 0.4em;
+    white-space: nowrap;
+}
+
+.grades {
+    overflow: auto;
+}
+
+.grades thead th, .grades tbody td,
+.totals th, .totals td {
+    border-left-style: solid;
+    border-left-width: 1px;
+    width: 4.0em;
+}
+
+.totals {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    width: 0px;
+}
+
+/* Controls */
+
+.grid-form .gradebook-controls {
+    clear: both;
+}
+
+.grid-form .gradebook-controls .buttons {
+    float: left;
+    margin-top: 0px;
+}
+
+.grid-form .gradebook-controls .zoom-buttons {
+    float: right;
+}
+
+.grid-form .gradebook-controls .zoom-buttons .zoom-button {
+    margin-right: 2px;
+}
+
+.grades .placeholder {
+    width: 100%;
+}
+
+/* Popup menus */
+
+.popup_menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    z-index: 2;
+}
+
+.popup_menu li {
+    display: block;
+}
+
+.popup_menu li.header,
+.popup_menu span.hover_link {
+    font-weight: bold;
+}
+
+.popup_menu a,
+.popup_menu li.header,
+.popup_menu span.hover_link,
+.popup_menu .hover_menu li.current {
+    padding: 3px 10px 3px 10px;
+    display: block;
+}
+
+.popup_menu li,
+.popup_menu li.header,
+.popup_menu ul.hover_menu span.hover_link,
+.popup_menu ul.hover_menu li {
+    white-space: nowrap;
+}
+
+.popup_menu ul.hover_menu {
+    display: block;
+}
+
+.popup_menu ul.hover_menu li.current:before {
+    content: "\00BB \0020";
+}
+
+.popup_menu ul.hover_menu a {
+    padding-left: 20px;
+}
+
+/* Section/Term/Year navigation */
+
+.navigator {
+    width: 140px;
+}
+
+.activity-description {
+    display: none;
+}
+
+.filldown-dialog-title {
+    display: none;
+}
+
+.worksheets-list {
+    position: absolute;
+    right: 16px;
+    top: 68px;
+    z-index: 2;
+    left: auto;
+}
+
+.worksheets-list li {
+    background-color: #485454;
+}
+
+.worksheets-list li.active {
+    background-color: #6C7B7C;
+}
+
+.unsaved-changes-warning {
+    display: none;
+}
