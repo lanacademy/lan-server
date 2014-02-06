@@ -1,0 +1,13 @@
+#include <turnkey/base>
+
+fab
+deck
+
+make
+build-essential
+gnupg
+genisoimage
+squashfs-tools
+polipo
+sysv-rc-conf
+

@@ -1,0 +1,37 @@
+#!/bin/bash -e
+
+POLIPO_PORT=8124
+FAB_PATH=/turnkey/fab
+
+# create directory structure
+mkdir -p $FAB_PATH/bootstraps
+mkdir -p $FAB_PATH/products
+
+# environmental variables and bash tweaks
+mkdir -p /root/.bashrc.d
+
+cat >/root/.bashrc.d/fab<<EOF
+export FAB_PATH=$FAB_PATH
+export FAB_APT_PROXY=http://127.0.0.1:$POLIPO_PORT
+export FAB_HTTP_PROXY=http://127.0.0.1:$POLIPO_PORT
+EOF
+chmod +x /root/.bashrc.d/fab
+
+cat >/root/.bashrc.d/turnkey-paths<<EOF
+CDPATH=.:$FAB_PATH:/turnkey:$FAB_PATH/products
+export _CDPATH=\$CDPATH
+EOF
+chmod +x /root/.bashrc.d/turnkey-paths
+
+# polipo
+chmod -x /etc/cron.daily/polipo
+cat >> /etc/polipo/config <<EOF
+
+proxyPort = $POLIPO_PORT
+dnsNameServer = 8.8.8.8
+EOF
+
+# disable webmin and shellinabox
+sysv-rc-conf webmin off
+sysv-rc-conf shellinabox off
+
