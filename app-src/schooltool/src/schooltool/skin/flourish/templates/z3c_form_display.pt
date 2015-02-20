@@ -1,3 +1,0 @@
-<div>
-  <metal:block use-macro="macro:display" />
-</div>
